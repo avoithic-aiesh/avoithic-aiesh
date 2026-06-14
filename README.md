@@ -1,4 +1,4 @@
-## Hi, I'm Aieshmaa!! 👋
+]]## Hi, I'm Aieshmaa!! 👋
 
 🎓 Computer Engineering Student
 
@@ -34,3 +34,5 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/avoithic-aiesh/avoithic-aiesh/blob/output/github-snake-dark.svg)
